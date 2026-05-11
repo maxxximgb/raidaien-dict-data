@@ -1,0 +1,145 @@
+{
+  "version": "1.0.0",
+  "built_at": "2026-05-11T13:18:49.135Z",
+  "count": 23,
+  "headwords": [
+    {
+      "id": 1,
+      "headword": "ӕвзаг",
+      "headword_norm": "ӕвзаг",
+      "dialect": "iron"
+    },
+    {
+      "id": 2,
+      "headword": "ӕвзагдзау",
+      "headword_norm": "ӕвзагдзау",
+      "dialect": "iron"
+    },
+    {
+      "id": 3,
+      "headword": "ӕвзаджын",
+      "headword_norm": "ӕвзаджын",
+      "dialect": "iron"
+    },
+    {
+      "id": 4,
+      "headword": "ӕвзалы",
+      "headword_norm": "ӕвзалы",
+      "dialect": "iron"
+    },
+    {
+      "id": 5,
+      "headword": "бузныг",
+      "headword_norm": "бузныг",
+      "dialect": "iron"
+    },
+    {
+      "id": 6,
+      "headword": "фыд",
+      "headword_norm": "фыд",
+      "dialect": "iron"
+    },
+    {
+      "id": 7,
+      "headword": "мад",
+      "headword_norm": "мад",
+      "dialect": "iron"
+    },
+    {
+      "id": 8,
+      "headword": "сӕрибар",
+      "headword_norm": "сӕрибар",
+      "dialect": "iron"
+    },
+    {
+      "id": 9,
+      "headword": "фӕндаг",
+      "headword_norm": "фӕндаг",
+      "dialect": "iron"
+    },
+    {
+      "id": 10,
+      "headword": "райсом",
+      "headword_norm": "райсом",
+      "dialect": "iron"
+    },
+    {
+      "id": 11,
+      "headword": "ӕхсӕв",
+      "headword_norm": "ӕхсӕв",
+      "dialect": "iron"
+    },
+    {
+      "id": 12,
+      "headword": "бон",
+      "headword_norm": "бон",
+      "dialect": "iron"
+    },
+    {
+      "id": 13,
+      "headword": "хӕдзар",
+      "headword_norm": "хӕдзар",
+      "dialect": "iron"
+    },
+    {
+      "id": 14,
+      "headword": "ныхас",
+      "headword_norm": "ныхас",
+      "dialect": "iron"
+    },
+    {
+      "id": 15,
+      "headword": "дзырд",
+      "headword_norm": "дзырд",
+      "dialect": "iron"
+    },
+    {
+      "id": 16,
+      "headword": "лӕг",
+      "headword_norm": "лӕг",
+      "dialect": "iron"
+    },
+    {
+      "id": 17,
+      "headword": "ус",
+      "headword_norm": "ус",
+      "dialect": "iron"
+    },
+    {
+      "id": 18,
+      "headword": "арфӕ",
+      "headword_norm": "арфӕ",
+      "dialect": "iron"
+    },
+    {
+      "id": 19,
+      "headword": "хур",
+      "headword_norm": "хур",
+      "dialect": "iron"
+    },
+    {
+      "id": 20,
+      "headword": "мӕй",
+      "headword_norm": "мӕй",
+      "dialect": "iron"
+    },
+    {
+      "id": 21,
+      "headword": "дон",
+      "headword_norm": "дон",
+      "dialect": "iron"
+    },
+    {
+      "id": 22,
+      "headword": "кӕстӕр",
+      "headword_norm": "кӕстӕр",
+      "dialect": "iron"
+    },
+    {
+      "id": 23,
+      "headword": "хистӕр",
+      "headword_norm": "хистӕр",
+      "dialect": "iron"
+    }
+  ]
+}
