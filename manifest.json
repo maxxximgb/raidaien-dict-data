@@ -1,8 +1,8 @@
 {
   "version": "3.0.0",
-  "built_at": "2026-05-12T21:35:32.100Z",
+  "built_at": "2026-05-14T16:07:02.588Z",
   "count": 51937,
-  "sqlite_md5": "bd5fe96254f1880244a811952c984e7d",
+  "sqlite_md5": "0892c00d0639795849fa9510fbc5154f",
   "headwords": [
     {
       "id": 1,
@@ -102366,8 +102366,8 @@
     },
     {
       "id": 17061,
-      "headword": "салан",
-      "headword_norm": "салан",
+      "headword": "байрай",
+      "headword_norm": "байрай",
       "dialect": "digor"
     },
     {
@@ -260238,8 +260238,8 @@
     },
     {
       "id": 43373,
-      "headword": "салам",
-      "headword_norm": "салам",
+      "headword": "байрай",
+      "headword_norm": "байрай",
       "dialect": "iron"
     },
     {
